@@ -1,0 +1,32 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "this is namste react by shubham bisht",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubh23-bit/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "nmaste",
+    "react"
+  ],
+  "author": "shub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubh23-bit/namaste-react/issues"
+  },
+  "homepage": "https://github.com/shubh23-bit/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
